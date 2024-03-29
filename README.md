@@ -20,7 +20,8 @@ Clone the app's github repository to your local machine.
 ```shell
 git clone --branch master https://github.com/NMDlamini/EswaClansApp-.git
 ```
-Install the dependencies on the eswaclans-app\Front-End\ &  eswaclans-app\Back-End directories of the app.
+
+Install the dependencies on both the Front-End and Back-End folders/directories of the app.
 ```shell
 cd front-end
 npm install
@@ -28,3 +29,16 @@ cd..
 cd back-end
 npm install
 ```
+## How to run
+Start the server on the Back-End folder/directory.
+Clone the app's github repository to your local machine.
+```shell
+cd back-end
+npm start
+```
+Open another terminal and start the app on the Front-End folder/directory.
+```shell
+cd back-end
+npm start
+```
+Done! Now open localhost:3000 in your browser.
