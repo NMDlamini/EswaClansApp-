@@ -45,4 +45,4 @@ Then open another terminal and start the web-app on the Front-End folder.
 cd front-end
 npm start
 ```
-Should now be Ready to use! Open localhost:3000 in your browser.
+Done! Open localhost:3000 in your browser.
