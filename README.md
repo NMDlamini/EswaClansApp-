@@ -2,7 +2,6 @@
 
 Swati Clan Praises web-app is a reliable source for lyrics to Swati clan name praises. 
 
-<img width="864" alt="APP SCREENSHOT 1c" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/7a14f352-f7d7-4152-be0f-4f3ba387042c">
+<img width="960" alt="APP SCREENSHOT 1b" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/3e9b82dc-0b5a-4793-bfa9-22c9379521bb">
 
-<img width="960" alt="APP SCREENSHOT 1" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/ddc9eb11-bba9-4d47-aaff-9e2790d3bff2">
-<img width="960" alt="APP SCREENSHOT 2" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/f8850104-64fc-4632-9f60-feb9b7431fa1">
+<img width="960" alt="APP SCREENSHOT 2b" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/dc0bdd0f-e34d-4c5b-b618-2ae1b9a58072">
