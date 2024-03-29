@@ -1,6 +1,6 @@
 # Swati Clan Praises Web-Application
 
-Swati Clan Praises web-app is a reliable source for lyrics to Swati clan name praises. The 
+Swati Clan Praises web-app is a reliable source for lyrics to Swati clan name praises. The web-app was built using the MERN stack technologies (MongoDB, Express, React, and Node.js).
 
 <img width="960" alt="APP SCREENSHOT 1b" src="https://github.com/NMDlamini/EswaClansApp-/assets/77834150/3e9b82dc-0b5a-4793-bfa9-22c9379521bb">
 
@@ -30,15 +30,15 @@ cd back-end
 npm install
 ```
 ## How to run
-Start the server on the Back-End folder/directory.
+First, start the server on the Back-End folder/directory.
 Clone the app's github repository to your local machine.
 ```shell
 cd back-end
 npm start
 ```
-Open another terminal and start the app on the Front-End folder/directory.
+Then open another terminal and start the app on the Front-End folder/directory.
 ```shell
-cd back-end
+cd front-end
 npm start
 ```
 Done! Now open localhost:3000 in your browser.
