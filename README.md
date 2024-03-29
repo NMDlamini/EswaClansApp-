@@ -22,13 +22,13 @@ Clone the app's github repository to a folder on your local machine.
 git clone --branch master https://github.com/NMDlamini/EswaClansApp-.git
 ```
 
-Install the dependencies on the front-end of the app.
+Install the dependencies on the app's front-end.
 ```shell
 cd front-end
 npm install
 cd..
 ```
-Install dependencies on the back-end of the app.
+Install dependencies on the app's back-end.
 ```shell
 cd back-end
 npm install
