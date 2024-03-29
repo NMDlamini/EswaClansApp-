@@ -28,7 +28,7 @@ cd front-end
 npm install
 cd..
 ```
-Install dependencies on the app's back-end.
+Install the dependencies on the app's back-end.
 ```shell
 cd back-end
 npm install
@@ -45,4 +45,4 @@ Then open another terminal and start the web-app on the Front-End folder.
 cd front-end
 npm start
 ```
-Done! Now open localhost:3000 in your browser.
+Should now be Ready to use! Open localhost:3000 in your browser.
