@@ -24,7 +24,7 @@ git clone --branch master https://github.com/NMDlamini/EswaClansApp-.git
 
 Install the dependencies on the Front-End and Back-End folders/directories of the app.
 ```shell
-cd front-end
+cd front-end (enter the \eswaclans-app\Front-End directory)
 npm install
 cd..
 cd back-end
