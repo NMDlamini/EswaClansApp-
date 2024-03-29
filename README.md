@@ -16,6 +16,8 @@ Swati Clan Praises web-app is a reliable source for lyrics to Swati clan name pr
 Both should be installed and make sure mongodb is running.
 
 ## How to install
-Clone repository of the app to your local machine
-git clone https://github.com/koolkishan/chat-app-react-nodejs
+Clone the github repository of the app to your local machine.
+```shell
+git clone --branch <master> <https://github.com/NMDlamini/EswaClansApp-.git>
 cd chat-app-react-nodejs
+```
