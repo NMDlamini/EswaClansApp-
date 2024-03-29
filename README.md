@@ -21,15 +21,14 @@ Clone the app's github repository to a folder your local machine.
 ```shell
 git clone --branch master https://github.com/NMDlamini/EswaClansApp-.git
 ```
-After the clone is complete, enter the EswaClansApp folder using/on the terminal.
 
-Go to the Front-End folder and install dependencies.
+Inside the EswaClansApp folder, enter the front-end folder then install dependencies (when finished return back to EswaClans folder) .
 ```shell
 cd front-end
 npm install
 cd..
 ```
-Go to the Back-End folder and install dependencies.
+Enter to the Back-End folder and also install dependencies there (when finished return back to EswaClansApp folder).
 ```shell
 cd back-end
 npm install
